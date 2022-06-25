@@ -1,0 +1,33 @@
+{
+  "name": "svelte-social-media-icons",
+  "version": "0.0.0",
+  "description": "Svelte components for social media icons.",
+  "scripts": {
+    "build": "svelvg glob=social-media-icons/icons iconIndex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaopalmeiro/svelte-social-media-icons.git"
+  },
+  "author": "João Palmeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaopalmeiro/svelte-social-media-icons/issues"
+  },
+  "homepage": "https://github.com/joaopalmeiro/svelte-social-media-icons#readme",
+  "devDependencies": {
+    "social-media-icons": "0.0.1",
+    "svelvg": "0.11.2"
+  },
+  "volta": {
+    "node": "16.15.1",
+    "npm": "8.11.0"
+  },
+  "svelte": "./lib/index.js",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "type": "module",
+  "files": [
+    "lib"
+  ]
+}
