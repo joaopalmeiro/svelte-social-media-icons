@@ -4,3 +4,4 @@
 - [svg-to-svelte](https://github.com/metonym/svg-to-svelte).
 - [svelvg](https://github.com/metonym/svelvg) ([template](https://github.com/metonym/svelvg/tree/master/template)).
 - `npm i -D svelvg social-media-icons`.
+- `npm install -D social-media-icons@0.0.2`.
