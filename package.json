@@ -1,6 +1,6 @@
 {
   "name": "svelte-social-media-icons",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Svelte components for social media icons.",
   "scripts": {
     "build": "svelvg glob=social-media-icons/icons iconIndex"
