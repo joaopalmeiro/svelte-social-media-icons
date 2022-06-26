@@ -1,8 +1,10 @@
 # Icon Index
 
-> 2 total icons
+> 4 total icons
 
 ## Icons
 
 - Behance
 - Dev
+- Discord
+- Dribbble

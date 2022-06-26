@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/joaopalmeiro/svelte-social-media-icons#readme",
   "devDependencies": {
-    "social-media-icons": "0.0.2",
+    "social-media-icons": "0.0.4",
     "svelvg": "0.11.2"
   },
   "volta": {
